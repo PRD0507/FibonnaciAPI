@@ -12,11 +12,8 @@ then return the values from this stepped ahead index in the series.
 
 Example:
 If an object is initialized as:
-
 FibIterator iterator = new FibIterator(4);
-
 int next = iterator.next();
-
 The value of next should be 5.
 
 Input: None
