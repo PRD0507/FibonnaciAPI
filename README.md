@@ -37,11 +37,11 @@ For Executuing the Application:\
 2) Navigate to the api folder\
 3) Run the Flask application with the command: python api.py\
 
-Flask will be running the application locally on the address: http://127.0.0.1:5000/\
+Flask will be running the application locally on the address: http://127.0.0.1:5000/
 
 API Discription:
 
-1) The link "http://127.0.0.1:5000/" \
+1) The link "http://127.0.0.1:5000/" \\
 	i) Lets us know if the server has started successfully\
 2) The link "http://127.0.0.1:5000/api/fibonnaci/all"\ 
 	i) Lets us know all the jump values the researcher has check.\
