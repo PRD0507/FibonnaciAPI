@@ -25,9 +25,9 @@ Output: The API should expose the next() function, that will return the appropri
 The Readme guide is for Windows OS:
 
 Project Setup:
-Create the folder structure by giving the following commands:\
-1) md projects\
-2) cd projects\
+Create the folder structure by giving the following commands:  
+1) md projects  
+2) cd projects  
 3) md api
 
 Copy the code inside prasad_desai_programming_problem_2.py to api.py in the api folder you created for this project.
