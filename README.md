@@ -16,6 +16,6 @@ FibIterator iterator = new FibIterator(4);\
 int next = iterator.next();\
 The value of next should be 5.\
 
-Input: None\
+Input: None
 Output: The API should expose the next() function, that will return the appropriate number.
 
